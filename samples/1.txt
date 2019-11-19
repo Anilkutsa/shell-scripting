@@ -1,0 +1,7 @@
+total 56
+-rwxr-xr-x@ 1 anilsuryaprakash  staff   730 Nov 19 19:12 1_script.sh
+-rwxr-xr-x@ 1 anilsuryaprakash  staff   754 Nov 19 10:10 2_arithmic_exp.sh
+-rwxr-xr-x@ 1 anilsuryaprakash  staff  1828 Nov 19 18:45 3_conditions.sh
+-rwxr-xr-x@ 1 anilsuryaprakash  staff   641 Nov 19 18:59 4-loops.sh
+drwxr-xr-x  5 anilsuryaprakash  staff   160 Nov 19 19:13 samples
+-rw-r--r--@ 1 anilsuryaprakash  staff  9385 Nov 19 09:08 shell-command.txt
